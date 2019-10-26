@@ -1,2 +1,4 @@
-include ':app'
-rootProject.name='PYMO'
+include ':market_licensing'
+include ':downloader_library'
+include ':pgs4a096'
+include ':library'

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PYMO.iml" filepath="$PROJECT_DIR$/PYMO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Git2Github-practice.iml" filepath="$PROJECT_DIR$/Git2Github-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downloader_library/downloader_library.iml" filepath="$PROJECT_DIR$/downloader_library/downloader_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/market_licensing/market_licensing.iml" filepath="$PROJECT_DIR$/market_licensing/market_licensing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pgs4a096/pgs4a096.iml" filepath="$PROJECT_DIR$/pgs4a096/pgs4a096.iml" />
     </modules>
   </component>
 </project>
