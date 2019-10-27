@@ -28,6 +28,3 @@ android {
     }
 }
 
-dependencies {
-    implementation project(':downloader_library')
-}

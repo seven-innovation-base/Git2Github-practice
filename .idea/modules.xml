@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Git2Github-practice.iml" filepath="$PROJECT_DIR$/Git2Github-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/downloader_library/Git2Github-practice-downloader_library.iml" filepath="$PROJECT_DIR$/downloader_library/Git2Github-practice-downloader_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/Git2Github-practice-library.iml" filepath="$PROJECT_DIR$/library/Git2Github-practice-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/downloader_library/downloader_library.iml" filepath="$PROJECT_DIR$/downloader_library/downloader_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/market_licensing/market_licensing.iml" filepath="$PROJECT_DIR$/market_licensing/market_licensing.iml" />
