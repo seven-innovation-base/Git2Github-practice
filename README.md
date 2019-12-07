@@ -1,12 +1,15 @@
 # Git2Github-practice
+
 ## 大家的git练习仓库
+>如果你的org角色是member，那么我们推荐你练习下pr；如果你是owener（我们仍然推荐你使用pr），不要直接在当前repo创建分支，先fork这个repo，然后再创建个分支做改动后向本仓提交pr。[Forking Projects](https://guides.github.com/activities/forking/)
+
 **请大家遵守以下练习规则：**
 - 1. 新加入的同学请`clone`克隆master分支。
 - 2. 在master分支的基础上创建自己的分支，在这个分支里面自由练习。
 - 3. 禁止强推`git push -f`
 - 4. 请注意分支命名规则，请用自己的昵称加分支名称命名，如CkaiGrac-PYMO。禁止出现test1、dsafqwe等不规范命名。
 
-### 开始练习
+#### 开始练习
 **克隆本项目：**
 ```shell
 git clone https://github.com/seven-innovation-base/Git2Github-practice.git
@@ -59,4 +62,4 @@ git push origin CkaiGrac-PYMO
 
 学长学姐告诉你，查文档学习更快，以实际应用场景为驱动，学得更快更有效率（逃~~~，👉👉[Git Documentation](https://git-scm.com/doc)
 
-
+[GitHub Flow](https://guides.github.com/introduction/flow/)
