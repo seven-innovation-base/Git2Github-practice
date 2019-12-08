@@ -1,7 +1,7 @@
 # Git2Github-practice
 
 ## 大家的git练习仓库
->如果你的org角色是member，那么我们推荐你练习下pr；如果你是owener（我们仍然推荐你使用pr），不要直接在当前repo创建分支，先fork这个repo，然后再创建个分支做改动后向本仓提交pr。[Forking Projects](https://guides.github.com/activities/forking/)
+>如果你的org角色是member，那么我们推荐你练习下pr；如果你是owner（我们仍然推荐你使用pr），不要直接在当前repo创建分支，先fork这个repo，然后再创建个分支做改动后向本仓提交pr。[Forking Projects](https://guides.github.com/activities/forking/)
 
 **请大家遵守以下练习规则：**
 - 1. 新加入的同学请`clone`克隆master分支。
