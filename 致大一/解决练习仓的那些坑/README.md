@@ -16,6 +16,6 @@
 
 #### how to 解决
 
-![method1](/imgrepo/method1.png)
+![method1](imgrepo/method1.png)
 
 #### [问题相关：git clone后如何checkout到remote branch??](https://shansan.top/categories/Git/)
