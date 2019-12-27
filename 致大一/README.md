@@ -1,11 +1,11 @@
 
 ```
-                      _   _        _  _         __        __              _      _ 
+                      _   _        _  _         __        __              _      _
                      | | | |  ___ | || |  ___   \ \      / /  ___   _ __ | |  __| |
                      | |_| | / _ \| || | / _ \   \ \ /\ / /  / _ \ | '__|| | / _` |
                      |  _  ||  __/| || || (_) |   \ V  V /  | (_) || |   | || (_| |
                      |_| |_| \___||_||_| \___/     \_/\_/    \___/ |_|   |_| \__,_|
-```                                                              
+```
 
 # 欢迎加入创新基地🙂
 
@@ -49,6 +49,11 @@ git config --global user.email "youremail@example.com"
 如果你想了解版本控制👉：[关于版本控制](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%85%B3%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)
 
 [git-for-windows](https://github.com/git-for-windows/git/releases)
+
+```
+# Windows更新Git
+git update-git-for-windows
+```
 
 
 
