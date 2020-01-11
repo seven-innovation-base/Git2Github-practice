@@ -37,7 +37,7 @@ git branch
 
 ```shell
 # 一次性添加所有修改到缓存中，仅适合少量修改，‘.’表示当前路径
-# git add . 
+# git add .
 
 git add src/main.java
 git commit -m "添加main.java文件"
@@ -58,8 +58,10 @@ git push origin CkaiGrac-PYMO
 
 ### 深入学习
 
-实验楼的这门以战代学的课程不错，有在线模拟环境是它的亮点👉👉[Git与Github入门实践](https://www.shiyanlou.com/courses/1035)
+- 实验楼的这门以战代学的课程不错，有在线模拟环境是它的亮点👉👉[Git与Github入门实践](https://www.shiyanlou.com/courses/1035)
 
-学长学姐告诉你，查文档学习更快，以实际应用场景为驱动，学得更快更有效率（逃~~~，👉👉[Git Documentation](https://git-scm.com/doc)
+- 学长学姐告诉你，查文档学习更快，以实际应用场景为驱动，学得更快更有效率（逃~~~，👉👉[Git Documentation](https://git-scm.com/doc)
 
-[GitHub Flow](https://guides.github.com/introduction/flow/)
+- [GitHub Flow](https://guides.github.com/introduction/flow/)
+
+- [断点续传式git clone（伪）-逐步clone](https://blog.csdn.net/zerooffdate/article/details/79348925)
