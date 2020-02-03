@@ -17,7 +17,7 @@
 - [准备阶段](#准备阶段)
 - [开始真正的练习](#开始真正的练习)
 - [正式开始练习前的小灶](#正式开始练习前的小灶)
-- [回到首页](/)
+- [回到首页](https://seven-innovation-base.github.io/Git2Github-practice/)
 
 ## 了解下名词
 
@@ -63,7 +63,7 @@ git config --global user.email "youremail@example.com"
 git update-git-for-windows
 ```
 
-- [回到首页](/)
+- [回到首页](https://seven-innovation-base.github.io/Git2Github-practice/)
 
 
 
