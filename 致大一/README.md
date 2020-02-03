@@ -9,7 +9,15 @@
 
 # 欢迎加入创新基地🙂
 
-**接下来将开始学习进入基地后的第一门课，通过本仓库简单学习下Git和Github的结对使用。**
+**接下来将开始学习进入基地后的第一门课-（目前很重要），通过本仓库学习和向大家展示下Git和GitHub的结对使用。**
+
+## 主要内容
+
+- [了解下“名词”？](#了解下“名词”？)
+- [准备阶段](#准备阶段)
+- [开始真正的练习🚺🚹](#开始真正的练习🚺🚹)
+- [正式开始练习前的小灶](#正式开始练习前的小灶)
+- [回到首页](/README.md)
 
 ## 了解下“名词”？
 
@@ -40,21 +48,22 @@ git config --global user.email "youremail@example.com"
 
 接下来就可以开启你的 Git 之旅了，与Git和Github义结金兰，探索编程世界的无限魅力！！！
 
-## 试试？🚺🚹
+## 开始真正的练习🚺🚹
 
 接下来请👉👉👉👉👉👉[戳下我](../README.md)👈👈👈👈👈👈开始你的练习之旅行
 
-## 更多
+## 正式开始练习前的小灶
 
-如果你想了解版本控制👉：[关于版本控制](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%85%B3%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)
+- 如果你想了解版本控制👉：[关于版本控制](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%85%B3%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)
 
-[git-for-windows](https://github.com/git-for-windows/git/releases)
+- Git的Window发行版👉：[git-for-windows](https://github.com/git-for-windows/git/releases)
 
 ```
 # Windows更新Git
 git update-git-for-windows
 ```
 
+- [回到首页](/README.md)
 
 
 

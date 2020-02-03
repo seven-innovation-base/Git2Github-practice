@@ -15,5 +15,5 @@ relative_links:
 
 relative_links:
   exclude:
-    - directory
-    - file.md
+    - 致大一
+    - README.md
