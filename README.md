@@ -3,9 +3,9 @@
 ## 目录
 
 - [前言](#前言)
-- [新人须知](致大一/README.md)
-- [分支练习<需完善>](#分支练习)
-- [pull request <未完成>](#README.md)
+- [新人须知](致大一/)
+- [分支练习~~需完善](#分支练习)
+- [协作之道 pull request~~未完成](#协作之道pr)
 - [深入学习](#深入学习)
 
 ## 前言
@@ -79,6 +79,8 @@ git commit -m "新增xxx函数"
 git push origin CkaiGrac-PYMO
 # 命令为git push origin your-branch
 ```
+
+## 协作之道pr
 
 ## 深入学习
 
