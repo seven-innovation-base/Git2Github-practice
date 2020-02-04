@@ -16,6 +16,10 @@
 
 #### how to 解决
 
+<<<<<<< HEAD
 ![metho1](imgrepo/metho1.png)
+=======
+![method1](imgrepo/metho1.png)
+>>>>>>> upstream/master
 
 #### [问题相关：git clone后如何checkout到remote branch??](https://shansan.top/categories/Git/)

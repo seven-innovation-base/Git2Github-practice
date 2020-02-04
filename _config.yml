@@ -1,0 +1,20 @@
+theme: jekyll-theme-hacker
+
+
+# https://github.com/benbalter/jekyll-readme-index
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
+
+
+# https://github.com/benbalter/jekyll-relative-links
+relative_links:
+  enabled:     true
+  collections: false
+
+relative_links:
+  exclude:
+    - 致大一
+    - README.md
+    - 致大一/README.md
