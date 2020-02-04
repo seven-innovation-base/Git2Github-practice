@@ -18,15 +18,15 @@
 
 了解Fork Projects🍳[{GitHub Guides-Forking Projects}](https://guides.github.com/activities/forking/)
 
-**如果对Git没一丁点认知，请先阅读😘[新人须知](致大一/README.md)**
+**如果对Git没一丁点认知，请先阅读😘[新人须知](致大一/)**
 
 ## 分支练习
 
 **请大家遵守以下练习规则：**
 
-- 1. 新加入的同学请`clone`克隆master分支。
+- 1. 新加入的同学请 `clone`克隆master分支。
 - 2. 在master分支的基础上创建自己的分支，在这个分支里面自由练习。
-- 3. 禁止强推`git push -f`
+- 3. 禁止强推 `git push -f`
 - 4. 请注意分支命名规则，请用自己的昵称加分支名称命名，如CkaiGrac-PYMO。禁止出现test1、dsafqwe等不规范命名。
 
 **克隆本项目：**
@@ -55,7 +55,7 @@ git branch
 
 在自己的分支上练完后想要提交这一次修改到GitHub上：
 
-- 使用`git add`命令，add后面可以添加单个修改后的文件或者是一个文件夹中所有修改后的文件到本地缓存中。
+- 使用 `git add` 命令，add后面可以添加单个修改后的文件或者是一个文件夹中所有修改后的文件到本地缓存中。
 
 - 然后使用git commit命令对添加到缓存中的文件添加修改说明。
 
