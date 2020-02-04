@@ -18,7 +18,7 @@
 
 了解Fork Projects🍳[{GitHub Guides-Forking Projects}](https://guides.github.com/activities/forking/)
 
-**如果对Git没一丁点认知，请先阅读😘[新人须知](致大一/README.md)**
+**如果对Git没一丁点认知，请先阅读😘[新人须知](致大一/)**
 
 ## 分支练习
 
