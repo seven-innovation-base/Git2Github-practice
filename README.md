@@ -5,7 +5,7 @@
 - [前言](#前言)
 - [新人须知](致大一/)
 - [分支练习~~需完善](#分支练习)
-- [协作之道 pull request~~未完成](#协作之道pr)
+- [协作之道 pull request~~需完善](#协作之道pr)
 - [深入学习](#深入学习)
 
 ## 前言
@@ -81,6 +81,47 @@ git push origin CkaiGrac-PYMO
 ```
 
 ## 协作之道pr
+
+好了，到了这里，前面的分支学习将真正有“大作为”。在多人合作时，我们可能会有这样一个情景，你 clone 到本地的版本库与远程的版本库历史不一致（有可能你 clone 项目后，有人也 clone 了，并对他的修改进行了提交），导致你不能提交「当然，你强制提交也行，但是这并不推荐」。这如何解决呢？
+
+在多人合作时，我们有这样的一个分支维护习惯（也许还有更好的）：
+
+- 主分支保持 stable；
+- clone 项目后，不在主分支（master）进行修改，而是**新建立一个分支进行修改**；
+- 主分支用于同步远程变更，同步完成后在把远程新的变更 merge 到你工作的分支（branch）；
+
+那么，如何操作，以下是一种基于「 GitHub 演示」良好的实践：
+
+我们晓得，一般情况下，如果你不是项目的核心维护者，你是没有权限直接提交修改到项目的仓库的，这时你就会用到 GitHub 的 fork 操作。以下以[基地的文档项目](https://github.com/seven-innovation-base/SphinxDOC)为例子。
+
+```bash
+# fork 之后你会进行 clone
+git clone https://github.com/your_username/SphinxDOC
+```
+
+在你 push 变更到你fork后的仓库时，**你需要注意**：fork 后仓库的历史变更不会和真正的项目仓库历史变更保持同步，在 push 之前，我们会有以下这波操作解决：
+
+- 1、添加源仓库为你 fork 后长裤的远程上游
+
+```bash
+git remote add upstream https://github.com/seven-innovation-base/SphinxDOC.git
+# 或者
+git remote add upstream git@github.com:seven-innovation-base/SphinxDOC.git
+```
+
+- 2、切换回主分支（master），同步远程上游的变更，并将变更合并到主分支
+
+```bash
+git checkout master
+git fetch upstream
+# 你也阔以看看当前主分支和 upstream 的有什么不同
+# git diff upstream/master
+git merge upstream/master
+```
+
+- 把变更 merge 到你工作的分支，然后 commit、push，然后再到 GitHub 提交 pull request
+
+![github pr.jpg](https://i.loli.net/2020/05/02/KhvHpjMDfT34yVs.png)
 
 ## 深入学习
 
