@@ -1,38 +1,51 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: 问个问题
+about: 寻求帮助，解答疑惑
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+### 问题描述
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+<!-- 站在其它人的角度尽可能清晰地、简洁地把问题描述清楚 -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### 复现步骤
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+<!-- 复现问题的步骤。代码只贴截图，不贴文字会被视为无效issue -->
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+1. <!-- 打开'...' -->
+2. <!-- 点击'....' -->
+3. <!-- 滚动到'....' -->
+4. <!-- 看见的现象... -->
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+```js
+/**
+ * 这段注释后可以贴代码
+ * 提供完整可复现的代码和整理好代码格式，有助于我们快速定位问题，节省你我时间
+ * 代码提供不全或代码格式混乱的 issues 【有可能会被忽略】
+ * 
+ * 查看如何插入代码：https://coding.net/help/doc/project/markdown.html#i-5
+ */
+
+```
+
+### 期望行为
+
+<!-- 请在下一行用简洁清晰的语言描述你期望的行为 -->
+
+### 报错信息
+
+<!-- 请在下一行贴上你的完整报错截图或文字 -->
+
+### 系统信息
+
+<!-- 请就简单介绍下你的开发环境，Git、npm、Node版本等等 -->
+
+### 补充信息
+
+<!-- （可选）根据你的调查研究，出现这个问题的原因可能在哪里？ -->
+
+<!-- 感谢您的热心反馈！别忘了用 Preview changes 按钮预览结果再提交 -->
