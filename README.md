@@ -135,9 +135,8 @@ git merge upstream/master
 - [GitHub Flow](https://guides.github.com/introduction/flow/)
 
 - [断点续传式git clone（伪）-逐步clone](https://blog.csdn.net/zerooffdate/article/details/79348925)
-## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+## 已参与娱乐的小伙伴 ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -151,5 +150,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
