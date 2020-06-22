@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "MrGo123",
+      "name": "yizhuang",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/53072382?v=4",
+      "profile": "https://zy68.top",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Git2Github-practice",
+  "projectOwner": "seven-innovation-base",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
