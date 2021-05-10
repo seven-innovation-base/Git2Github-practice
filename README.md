@@ -5,11 +5,13 @@
 
 ## 目录
 
-- [前言](#前言)
-- [新人须知](致大一/)
-- [分支练习~~需完善](#分支练习)
-- [协作之道 pull request~~需完善](#协作之道pr)
-- [深入学习](#深入学习)
+- [大家的Git练习仓库](#大家的git练习仓库)
+  - [目录](#目录)
+  - [前言](#前言)
+  - [分支练习](#分支练习)
+  - [协作之道pr](#协作之道pr)
+  - [深入学习](#深入学习)
+  - [已参与娱乐的小伙伴 ✨](#已参与娱乐的小伙伴-)
 
 ## 前言
 
@@ -102,7 +104,9 @@ git push origin CkaiGrac-PYMO
 git clone https://github.com/your_username/SphinxDOC
 ```
 
-在你 push 变更到你fork后的仓库时，**你需要注意**：fork 后仓库的历史变更不会和真正的项目仓库历史变更保持同步，在 push 之前，我们会有以下这波操作解决：
+在你 push 变更到你fork后的仓库时，**你需要注意**：fork 后仓库的历史变更不会和真正的项目仓库历史变更保持同步，在 push 之前，我们会有以下这两波操作解决：
+
+**方法一**：
 
 - 1、添加源仓库为你 fork 后长裤的远程上游
 
@@ -126,6 +130,17 @@ git merge upstream/master
 
 ![github pr.jpg](https://i.loli.net/2020/05/02/KhvHpjMDfT34yVs.png)
 
+
+**方法二：**
+
+- 1、 在自己 fork 之后的仓库里，``Code`` 下有功能 ``fetch and merge`` （如下图），能够使得你在网页端的仓库与源仓库同步。
+
+[![g3lJ7n.png](https://z3.ax1x.com/2021/05/07/g3lJ7n.png)](https://imgtu.com/i/g3lJ7n)
+
+
+- 2、 如果你本地工作仓库也需要更新，那么直接 ``git fetch`` 、``git merge`` 即可将本地工作仓库与远程仓库（网页端）内容同步。
+
+
 ## 深入学习
 
 - 实验楼的这门以战代学的课程不错，有在线模拟环境是它的亮点👉👉[Git与Github入门实践](https://www.shiyanlou.com/courses/1035)
@@ -143,7 +158,7 @@ git merge upstream/master
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://zy68.top"><img src="https://avatars1.githubusercontent.com/u/53072382?v=4" width="100px;" alt=""/><br /><sub><b>yizhuang</b></sub></a><br /><a href="https://github.com/seven-innovation-base/Git2Github-practice/commits?author=MrGo123" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://zy68.top"><img src="https://avatars1.githubusercontent.com/u/53072382?v=4" width="100px;" alt=""/><br /><sub><b>Sustart</b></sub></a><br /><a href="https://github.com/seven-innovation-base/Git2Github-practice/commits?author=MrGo123" title="Documentation">📖</a></td>
   </tr>
 </table>
 
