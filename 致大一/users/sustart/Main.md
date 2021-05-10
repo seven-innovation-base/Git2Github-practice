@@ -1,1 +1,1 @@
-Good study
+Good study, day day up!!!
