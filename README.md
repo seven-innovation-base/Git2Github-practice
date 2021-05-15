@@ -38,7 +38,7 @@
 **克隆本项目：**
 
 ```shell
-git clone https://github.com/seven-innovation-base/Git2Github-practice.git
+git clone -b main https://github.com/seven-innovation-base/Git2Github-practice.git --single-branch
 ```
 
 **查看并创建自己的分支**
