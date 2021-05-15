@@ -8,7 +8,7 @@
 - [大家的Git练习仓库](#大家的git练习仓库)
   - [目录](#目录)
   - [前言](#前言)
-  - [新人需知](#致大一/)
+  - [新人需知](致大一/)
   - [分支练习](#分支练习)
   - [协作之道pr](#协作之道pr)
   - [深入学习](#深入学习)
@@ -31,7 +31,7 @@
 **请大家遵守以下练习规则：**
 
 - 1. 新加入的同学请 `clone`克隆 main 分支。
-- 2. 在master分支的基础上创建自己的分支，在这个分支里面自由练习。
+- 2. 在 main （主）分支的基础上创建自己的分支，在这个分支里面自由练习。
 - 3. 禁止强推 `git push -f`
 - 4. 请注意分支命名规则，请用自己的昵称加分支名称命名，如 CkaiGrac-PYMO。禁止出现 test1、dsafqwe 等不规范命名。
 
@@ -44,7 +44,7 @@ git clone -b main https://github.com/seven-innovation-base/Git2Github-practice.g
 **查看并创建自己的分支**
 
 ```shell
-# 查看当前分支，默认为master分支，按q退出
+# 查看当前分支，默认为 main 分支，按 q 退出
 git branch
 
 # 根据当前所在分支创建自己的分支
@@ -93,7 +93,7 @@ git push origin CkaiGrac-PYMO
 在多人合作时，我们有这样的一个分支维护习惯（也许还有更好的）：
 
 - 主分支保持 stable；
-- clone 项目后，不在主分支（master）进行修改，而是**新建立一个分支进行修改**；
+- clone 项目后，不在主分支（main）进行修改，而是**新建立一个分支进行修改**；
 - 主分支用于同步远程变更，同步完成后在把远程新的变更 merge 到你工作的分支（branch）；
 
 那么，如何操作，以下是一种基于「 GitHub 演示」良好的实践：
@@ -151,6 +151,8 @@ git merge upstream/main
 - 学长学姐告诉你，查文档学习更快，以实际应用场景为驱动，学得更快更有效率（逃~~~，👉👉[Git Documentation](https://git-scm.com/doc)
 
 - Git 工作流：[GitHub Flow](https://guides.github.com/introduction/flow/)
+
+- Git 处理大型仓库：[Git 如何处理大仓库](https://www.oschina.net/translate/how-to-handle-big-repositories-with-git)
 
 - 应对大仓库的 clone 太慢的问题：[断点续传式git clone（伪）-逐步clone](https://blog.csdn.net/zerooffdate/article/details/79348925)
 
