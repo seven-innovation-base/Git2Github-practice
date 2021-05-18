@@ -171,6 +171,7 @@ git merge upstream/main
   <tr>
     <td align="center"><a href="https://zy68.top"><img src="https://avatars1.githubusercontent.com/u/53072382?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sustart</b></sub></a><br /><a href="https://github.com/seven-innovation-base/Git2Github-practice/commits?author=MrGo123" title="Documentation">📖</a></td>
     <td align="center"><a href="https://redhat123456.github.io/"><img src="https://avatars.githubusercontent.com/u/57751257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>redhat123456</b></sub></a><br /><a href="https://github.com/seven-innovation-base/Git2Github-practice/commits?author=redhat123456" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Tanger"><img src="https://avatars.githubusercontent.com/u/104449?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tanger</b></sub></a><br /><a href="https://github.com/seven-innovation-base/Git2Github-practice/commits?author=Tanger" title="Documentation">📖</a></td>
   </tr>
 </table>
 
