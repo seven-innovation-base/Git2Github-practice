@@ -22,6 +22,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "redhat123456",
+      "name": "redhat123456",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57751257?v=4",
+      "profile": "https://redhat123456.github.io/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
