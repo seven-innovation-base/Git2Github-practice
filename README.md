@@ -1,6 +1,6 @@
 # 大家的Git练习仓库
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## 目录
@@ -169,10 +169,12 @@ git merge upstream/main
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://zy68.top"><img src="https://avatars1.githubusercontent.com/u/53072382?v=4" width="100px;" alt=""/><br /><sub><b>Sustart</b></sub></a><br /><a href="https://github.com/seven-innovation-base/Git2Github-practice/commits?author=MrGo123" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://zy68.top"><img src="https://avatars1.githubusercontent.com/u/53072382?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sustart</b></sub></a><br /><a href="https://github.com/seven-innovation-base/Git2Github-practice/commits?author=MrGo123" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://redhat123456.github.io/"><img src="https://avatars.githubusercontent.com/u/57751257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>redhat123456</b></sub></a><br /><a href="https://github.com/seven-innovation-base/Git2Github-practice/commits?author=redhat123456" title="Documentation">📖</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-enable -->
+<!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
